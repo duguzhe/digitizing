@@ -26,3 +26,6 @@ qadatician2@qq.com  代理商数据分析师
 cw2@qq.com      代理商财务
 ggz0205@qq.com  代理商广告主
 sale2@qq.com    代理商QA销售
+
+
+使用git status可以查看 修改的部分
